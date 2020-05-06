@@ -1,4 +1,3 @@
-# Apotik_Webpro  
 # --CODE COLOR   
 #011c37  
 #124f67  

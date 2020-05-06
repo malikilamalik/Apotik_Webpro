@@ -16,12 +16,15 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Gey" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand" href = "<?php echo base_url(); ?>"><img src="<?php echo base_url('assets/img/logo/logopanjangbirunav.png'); ?>" alt=""></a>
+                <a class="navbar-brand" href = "<?php echo base_url('Apoteker'); ?>"><img src="<?php echo base_url('assets/img/logo/logopanjangbirunav.png'); ?>" alt=""></a>
 
                 <div class="collapse navbar-collapse" id="Gey">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
-                            <a class="nav-link " href="<?php echo base_url(); ?>">Home <span class="sr-only">(current)</span></a>
+                            <a class="nav-link " href="<?php echo base_url('Apoteker'); ?>">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " href="<?php echo base_url('Apoteker/Obat'); ?>">Obat <span class="sr-only">(current)</span></a>
                         </li>
                     </ul>
                     <div class="form-inline my-2 my-lg-0">

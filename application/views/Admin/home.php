@@ -225,7 +225,7 @@
                         })
                     }
                 })
-                //Memunculkan modal edit
+                //Memunculkan modal 
                 $("#tbl_data").on('click','.btn_detail',function(){
                     var user_id = $(this).attr('data-id');
                     tampil_data_modal(user_id);
