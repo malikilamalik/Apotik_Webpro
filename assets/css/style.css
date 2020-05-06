@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap");
+.bg-primary-color{
+    background-color: #011c37 !important;
+}
+.text-primary-color{
+    color: #011c37 !important;
+}
+.bg-secondary-color{
+    background-color: #f5f7e2 !important;
+}
+.text-secondary-color{
+    color: red !important;
+}
+
+nav.navbar{
+    font-family: Roboto;
+    font-weight: 900;
+    color: black !important;
+}
+nav{
+    border-bottom: 0.1px solid black !important;
+    padding-left: 15px;
+    padding-right: 35px !important;
+}
+.navbar-nav > .active > a {
+    color: #011c37 !important;   
+}
+
+.nav-item > a:hover {
+    color: #124f67 !important;
+}
+.btn-outline-secondary:hover {
+    background-color: #124f67 !important;
+    color: white!important;
+}
+
+.gridContent-3t3OFU{
+    padding-top: 50px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    margin: auto;
+    align-items: center;
+}
+.gridContent-3t3OFU > .row > .col-sm{
+    color: white !important;
+    text-align: center !important;
+    padding-top: 60px;
+}
+.gridContent-3t3OFU > .row > .col-sm > h2{
+    padding-top: 60px;
+}
+.gridContent-3t3OFU > .row > .col-sm > button{
+    margin: 50px auto 0px auto;
+    width: 50%;
+}
+
+.gridContent-2t3OFU{
+    padding-top: 50px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    margin: auto;
+}
+
+.gridContent-2t3OFU > .row > .col-sm{
+    padding-top: 60px;
+}
+
+.gridContent-2t5OFU > .row > .col-sm > h4{
+    color: black !important;
+    padding-top: 60px;
+}
